@@ -2,7 +2,7 @@
 
 Shane Kennedy
 
-Programming Languages: JavaScript, HTML, CSS
+Programming Languages: JavaScript, HTML, CSS, VueJS
 
 This was a project I did when I first learned Vue. It is obviously not the best shopping website or anything, but it gave me a good understanding of the basic principles of how to use Vue.
 
